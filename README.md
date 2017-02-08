@@ -37,7 +37,9 @@ Python dependancies:
 4. Run code
 
   ```sh
-  ./analysis/main.sh
+  cd analysis
+  chmod +x main.sh
+  ./main.sh
   ```
 
 ### Important files to note
